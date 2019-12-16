@@ -5,7 +5,7 @@ READ1=testing/testFiles/R1_1000r.fq
 READ2=testing/testFiles/R4_1000r.fq
 INDEX1=testing/testFiles/R2_1000r.fq
 INDEX2=testing/testFiles/R3_1000r.fq
-OUTPUT=output/
+OUTPUT=./
 
 #run demultiplex.py
 ./demultiplex.py -r $READ1 -R $READ2 -i $INDEX1 -I $INDEX2 -o $OUTPUT
