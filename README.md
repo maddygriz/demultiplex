@@ -1,12 +1,17 @@
 # Demultiplex
 
 *******************************************************************************
+
 Program	   : demultiplex.py
+
 Description: determine the level of index hopping and barcode errors using 
-               the demultiplexing process 
+the demultiplexing process 
+
 Parameters : none
+
 Returned	 : 1. read quality figures and statistics 
-             2. demultiplexed FASTQ files
+2. demultiplexed FASTQ files
+
 ******************************************************************************* 
 
 Vocab
